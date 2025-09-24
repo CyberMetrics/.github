@@ -1,11 +1,12 @@
 <!-- Cyberpunk Neon Dashboard README -->
 <h1 align="center" style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #ff00ff, 0 0 20px #ff00ff;">🕶️ CyberMetrics</h1>
 <p align="center">
-  <em style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff;">Transforming Logs into Intelligence ⚡ AI-Powered SIEM</em>
+  <em style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff;">Transforming Logs into Intelligence ⚡ ML-Powered SIEM</em>
 </p>
+ 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e5/7a/19/e57a19d66d954557be26bcfd7b2201b8.gif" width="80%" alt="Cyberpunk Matrix GIF"/>
-</p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFwdDhmdDZqZzJkMmo4ajcyeW5wcHVoa3cxZGF4bHpyYm1kam5hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9atknkde2cbSy0ivhX/giphy.gif" width="60%" height="50%" alt="Cyberpunk Matrix GIF"/>
+  </p>
 
 ---
 
@@ -30,7 +31,7 @@ CyberMetrics is a **next-generation cybersecurity organization** focused on **ML
 <li>🛠 <b>Open-Source Tooling:</b> Modular pipelines for analytics and visualization.</li>
 </ul>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70%" alt="Cyberpunk Operations GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTczOWluZHNibHptbHBiemQwMnNmdjUzbDBsZDBwaWJuYmplaXJxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Eg02gyLrv9ZiUvemFZ/giphy.gif" width="70%" alt="Cyberpunk Operations GIF"/>
 </p>
 </div>
 
@@ -47,7 +48,7 @@ CyberMetrics is a **next-generation cybersecurity organization** focused on **ML
 <li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Prototype-001" style="color:#ff0;">Prototype-001</a></li>
 </ul>
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="70%" alt="Prototype Demo"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI3am1kczkxcTM5ZDUxNmxoNDl0djFvaGFxdGh5Y2prNDhtbzl5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Iiqg335KruEu5uplaP/giphy.gif" width="30%" height="20%" alt="Prototype Demo"/>
 </p>
 
 <h3>🔹 Research-Findings</h3>
@@ -57,7 +58,7 @@ CyberMetrics is a **next-generation cybersecurity organization** focused on **ML
 <li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Research-Findings" style="color:#ff0;">Research-Findings</a></li>
 </ul>
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70%" alt="Research Analysis GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ4eXVidjF6NGg2eDdrN2Q2MTl6eW42YnloMHNzenBrZGZ0dzJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAKXyzgLVtKsU/giphy.gif" width="50%" alt="Research Analysis GIF"/>
 </p>
 </div>
 
@@ -72,7 +73,7 @@ CyberMetrics is a **next-generation cybersecurity organization** focused on **ML
 <li><b>ML Models:</b> Random Forest, XGBoost, Autoencoders, LSTMs, LDA</li>
 </ul>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKC8Iu1qB6L1t0Q/giphy.gif" width="60%" alt="Tech Stack GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxeDRodDk3cmdhamE3NmU2aDg3YWRqcDgxZzZsaTd2djlnYTZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="40%" height="50%" alt="Tech Stack GIF"/>
 </p>
 </div>
 
@@ -147,6 +148,9 @@ win_logs = pd.read_csv('data/Windows_2k.log_structured.csv')
 <li>Chankapure Kameshwar</li>
 <li>Abijith Chowdary</li>
 </ul>
+  <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc1ZHpqZHN3MGJ3MnBhMDVqMndpb21heHF2dHRwZThjNnc1c2N3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11sBLVxNs7v6WA/giphy.gif" width="60%" height="50%" alt="Tech Stack GIF"/>
+</p>
 </div>
 
 ---
