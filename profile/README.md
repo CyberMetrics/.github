@@ -1,12 +1,175 @@
-## Hi there 👋
+<!-- Cyberpunk Neon Dashboard README -->
+<h1 align="center" style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #ff00ff, 0 0 20px #ff00ff;">🕶️ CyberMetrics</h1>
+<p align="center">
+  <em style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff;">Transforming Logs into Intelligence ⚡ AI-Powered SIEM</em>
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e5/7a/19/e57a19d66d954557be26bcfd7b2201b8.gif" width="80%" alt="Cyberpunk Matrix GIF"/>
+</p>
 
+---
 
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
+<h2>🌌 About CyberMetrics</h2>
+<p>
+CyberMetrics is a **next-generation cybersecurity organization** focused on **ML-driven SIEM solutions**. We transform raw event logs into **actionable intelligence**, enabling SOC teams and threat hunters to detect, predict, and mitigate threats in **real-time**.
+</p>
+<blockquote style="border-left:3px solid #ff00ff; padding-left:10px; color:#ff0;">
+“In the shadows of code, anomalies shine the brightest.”
+</blockquote>
+</div>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #f0f; color:#f0f;">
+<h2>⚡ Core Operations</h2>
+<ul>
+<li>💻 <b>AI-Powered SIEM:</b> ML-driven detection, anomaly scoring, correlation.</li>
+<li>📊 <b>Behavioral Baselines:</b> Learn normal activity and detect deviations.</li>
+<li>⏱ <b>Real-Time Detection:</b> Instant alerting & automated threat scoring.</li>
+<li>🛠 <b>Open-Source Tooling:</b> Modular pipelines for analytics and visualization.</li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70%" alt="Cyberpunk Operations GIF"/>
+</p>
+</div>
 
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
+<h2>🚀 Projects</h2>
+
+<h3>🔹 Prototype-001</h3>
+<ul>
+<li><b>Objective:</b> Anomaly detection in system logs using ML & LDA.</li>
+<li><b>Tech Stack:</b> Python, Pandas, scikit-learn, LDA, XGBoost.</li>
+<li><b>Features:</b> Behavioral baselines, ROC curves, SHAP explanations.</li>
+<li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Prototype-001" style="color:#ff0;">Prototype-001</a></li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="70%" alt="Prototype Demo"/>
+</p>
+
+<h3>🔹 Research-Findings</h3>
+<ul>
+<li><b>Objective:</b> Curated SIEM research & collaborative insights.</li>
+<li><b>Contents:</b> Research papers, structured logs, team analysis.</li>
+<li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Research-Findings" style="color:#ff0;">Research-Findings</a></li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70%" alt="Research Analysis GIF"/>
+</p>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #f0f; color:#f0f;">
+<h2>🛠 Tech Stack</h2>
+<ul>
+<li><b>Languages:</b> Python, SQL</li>
+<li><b>Libraries:</b> Pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly, Gensim, NLTK</li>
+<li><b>Platforms:</b> Jupyter Notebook, Google Colab</li>
+<li><b>ML Models:</b> Random Forest, XGBoost, Autoencoders, LSTMs, LDA</li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKC8Iu1qB6L1t0Q/giphy.gif" width="60%" alt="Tech Stack GIF"/>
+</p>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
+<h2>📂 Organization Structure</h2>
+<pre style="color:#0ff;">
+CyberMetrics/
+├── Projects/
+│   ├── Prototype-001/
+│   └── Research-Findings/
+├── Data/                # Structured & anonymized logs
+├── Docs/                # Research papers, whitepapers
+├── Tools/               # ML pipelines & preprocessing scripts
+├── Scripts/             # Automation helpers
+└── README.md
+</pre>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #f0f; color:#f0f;">
+<h2>🚨 Getting Started</h2>
+<ol>
+<li>Clone repository:
+<pre style="color:#0ff;">git clone https://github.com/CyberMetrics/Prototype-001.git
+cd Prototype-001</pre>
+</li>
+<li>Install dependencies:
+<pre style="color:#0ff;">pip install -r requirements.txt
+# or install manually:
+pip install pandas numpy scikit-learn matplotlib seaborn gensim nltk plotly</pre>
+</li>
+<li>Launch Notebook:
+<pre style="color:#0ff;">jupyter notebook</pre>
+</li>
+<li>Load logs:
+<pre style="color:#0ff;">
+import pandas as pd
+mac_logs = pd.read_csv('data/Mac_2k.log_structured.csv')
+win_logs = pd.read_csv('data/Windows_2k.log_structured.csv')
+</pre>
+</li>
+</ol>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
+<h2>🧩 How to Contribute</h2>
+<ul>
+<li>Fork & experiment with ML pipelines.</li>
+<li>Add new log formats or anomaly detection models.</li>
+<li>Improve visualizations & dashboards.</li>
+<li>Submit pull requests with enhancements.</li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="70%" alt="Collaboration GIF"/>
+</p>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #f0f; color:#f0f;">
+<h2>👥 Contributors</h2>
+<ul>
+<li>Allen Jose</li>
+<li>Satish Pakalapati</li>
+<li>Nikhil Reddie</li>
+<li>Prem Swaroop</li>
+<li>Chankapure Kameshwar</li>
+<li>Abijith Chowdary</li>
+</ul>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
+<h2>📜 License</h2>
+<p>MIT License — see LICENSE files in each repository.</p>
+</div>
+
+---
+
+<div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #f0f; color:#f0f;">
+<h2>🙏 Acknowledgements</h2>
+<ul>
+<li>Open-source community: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly</li>
+<li>Academic research in SIEM & anomaly detection</li>
+<li>Security researchers and ML community</li>
+</ul>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="70%" alt="Hack the Matrix GIF"/>
+</p>
+</div>
+
+---
+
+<p align="center" style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #ff00ff;">⚡ CyberMetrics: Hack the logs. Illuminate anomalies. Defend the future.</p>
