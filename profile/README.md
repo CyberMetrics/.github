@@ -20,7 +20,7 @@
 <div style="background-color:#111; padding:20px; border-radius:15px; border: 2px solid #0ff; color:#0ff;">
 <h2>🌌 About CyberMetrics</h2>
 <p>
-CyberMetrics is a **next-generation cybersecurity organization** focused on **ML-driven SIEM solutions**. We transform raw event logs into **actionable intelligence**, enabling SOC teams and threat hunters to detect, predict, and mitigate threats in **real-time**.
+CyberMetrics is a next-generation cybersecurity organization focused on ML-driven SIEM solutions. We transform raw event logs into actionable intelligence, enabling SOC teams and threat hunters to detect, predict, and mitigate threats in real-time.
 </p>
 <blockquote style="border-left:3px solid #ff00ff; padding-left:10px; color:#ff0;">
 “In the shadows of code, anomalies shine the brightest.”
