@@ -1,8 +1,15 @@
-<!-- Cyberpunk Neon Dashboard README -->
-<h1 align="center" style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #ff00ff, 0 0 20px #ff00ff;">🕶️ CyberMetrics</h1>
+
 <p align="center">
-  <em style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff;">Transforming Logs into Intelligence ⚡ ML-Powered SIEM</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3px"/>
 </p>
+
+<h1 align="center">🕶️ CyberMetrics</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=850&lines=Next-generation+Cybersecurity+Organization;ML-driven+SIEM+Solutions;Transforming+Raw+Logs+into+Actionable+Intelligence;Real-time+Threat+Detection+and+Prediction;🚀+Open+to+Contributions" alt="Transforming Logs into Intelligence ⚡ ML-Powered SIEM" />
+</p>
+
+
+
  
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFwdDhmdDZqZzJkMmo4ajcyeW5wcHVoa3cxZGF4bHpyYm1kam5hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9atknkde2cbSy0ivhX/giphy.gif" width="60%" height="50%" alt="Cyberpunk Matrix GIF"/>
@@ -55,7 +62,7 @@ CyberMetrics is a **next-generation cybersecurity organization** focused on **ML
 <ul>
 <li><b>Objective:</b> Curated SIEM research & collaborative insights.</li>
 <li><b>Contents:</b> Research papers, structured logs, team analysis.</li>
-<li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Research-Findings" style="color:#ff0;">Research-Findings</a></li>
+<li><b>Repo:</b> <a href="https://github.com/CyberMetrics/Capstone-Mark-01" style="color:#ff0;">Research-Findings</a></li>
 </ul>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ4eXVidjF6NGg2eDdrN2Q2MTl6eW42YnloMHNzenBrZGZ0dzJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAKXyzgLVtKsU/giphy.gif" width="50%" alt="Research Analysis GIF"/>
@@ -177,3 +184,12 @@ win_logs = pd.read_csv('data/Windows_2k.log_structured.csv')
 ---
 
 <p align="center" style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #ff00ff;">⚡ CyberMetrics: Hack the logs. Illuminate anomalies. Defend the future.</p>
+<div>
+  <h2>💡 Quote of the Day</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=footer&text=⚡%20Built%20by%20SatishPakalapati&fontAlign=center&fontColor=FFFFFF&fontSize=18" />
+</p>
+</div>
