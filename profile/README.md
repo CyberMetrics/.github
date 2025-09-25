@@ -3,10 +3,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3px"/>
 </p>
 
-<h1 align="center">🕶️ CyberMetrics</h1>
-<p align="center">
+ <h1 align="center" style="color:#00ffff; text-shadow:0 0 5px #00ffff, 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
+  <img width="42px" height="42px" alt="🤖" src="https://github.com/user-attachments/assets/433899ce-7d39-4072-8372-f219b0cddd8b" />
+<b>CyberMetrics</b></h1>
+   <p align="center" style="color:#ff00ff; font-size:14px; font-style:italic; text-decoration:underline; margin-top:-10px; text-shadow:0 0 5px #ff00ff, 0 0 15px #00ffff;">
+  <b><i>In the shadows of code, anomalies shine the brightest.</i></b>
+</p>
+   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=850&lines=Next-generation+Cybersecurity+Organization;ML-driven+SIEM+Solutions;Transforming+Raw+Logs+into+Actionable+Intelligence;Real-time+Threat+Detection+and+Prediction;🚀+Open+to+Contributions" alt="Transforming Logs into Intelligence ⚡ ML-Powered SIEM" />
 </p>
+
+
+
+
+
 
 
 
@@ -22,9 +32,7 @@
 <p>
 CyberMetrics is a next-generation cybersecurity organization focused on ML-driven SIEM solutions. We transform raw event logs into actionable intelligence, enabling SOC teams and threat hunters to detect, predict, and mitigate threats in real-time.
 </p>
-<blockquote style="border-left:3px solid #ff00ff; padding-left:10px; color:#ff0;">
-“In the shadows of code, anomalies shine the brightest.”
-</blockquote>
+
 </div>
 
 ---
