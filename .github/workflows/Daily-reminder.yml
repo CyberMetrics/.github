@@ -1,4 +1,4 @@
-name: Daily Contribution Reminder
+ name: Daily Contribution Reminder
 
 on:
   schedule:
