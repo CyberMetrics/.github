@@ -1,0 +1,63 @@
+name: Daily Contributor Nudge
+
+on:
+  # Triggers the workflow every day at 7:00 AM IST (1:30 AM UTC)
+  schedule:
+    - cron: '30 1 * * *'
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read 
+
+    steps:
+      - name: Create Daily Contribution Issue
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            // 1. Define the content of the issue
+            const issueTitle = "✨ Daily Contributor Call: What can we build today?";
+            const issueBody = `
+            👋 **Good morning, contributors!**
+
+            It's a new day to make a difference in our repository.
+
+            * **Pick up an existing issue** from the list.
+            * **Review a Pull Request** from a fellow contributor.
+            * **Refactor code** or **improve documentation**.
+
+            Let us know what you'll be working on!
+            
+            /cc @CyberMetrics/contributors-team
+            
+            _This is an automated issue to encourage daily contributions._
+            `;
+
+            // 2. Define assignees and labels
+            const assigneesList = [
+              'Satish-970',
+              'ChankapureKameshwar',
+              'Prem-197-e',
+              'nikhilreddy1832',
+              'abijithchowdary',
+              'allenjose24',
+            ];
+            
+            // Only 'help wanted' and 'daily-task' remain
+            const labelsList = [
+              'help wanted',
+              'daily-task'
+            ];
+            
+            // 3. Create the issue with all parameters
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: issueTitle,
+              body: issueBody,
+              assignees: assigneesList,
+              labels: labelsList
+            });
