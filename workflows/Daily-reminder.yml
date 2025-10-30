@@ -1,4 +1,4 @@
-name: Daily Contribution Remainder
+name: Daily Contribution Reminder
 
 on:
   schedule:
@@ -11,10 +11,10 @@ jobs:
     permissions:
       issues: write
     steps:
-      - name: Send remainder
+      - name: Send reminder
         uses: peter-evans/create-issue@v5
         with:
-          title: "Daily Contribution Remainder - ${{ github.run_id }}"
+          title: "Daily Contribution Reminder - ${{ github.run_id }}"
           body: |
             👋 **Hello team!**
             It's time to contribute for today 🚀
@@ -28,5 +28,6 @@ jobs:
             @allenjose24
 
             Keep up the great work 💪
-          labels: remainder
+          labels: reminder
+
 
