@@ -2,8 +2,9 @@ name: Daily Contributor Nudge
 
 on:
   # Triggers the workflow every day at 7:00 AM IST (1:30 AM UTC)
+  workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '30 6 * * *'
 
 jobs:
   create_issue:
