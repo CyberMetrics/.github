@@ -1,4 +1,4 @@
- name: Daily Contributor Nudge
+name: Daily Contributor Nudge
 
 on:
   workflow_dispatch:
